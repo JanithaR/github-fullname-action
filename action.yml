@@ -1,10 +1,12 @@
 name: "Hello World"
 description: "Greet someone and record the time"
 inputs:
-  who-to-greet: # id of input
-    description: "Who to greet"
+  first-name: # id of input
+    description: "First name of the person to greet"
     required: true
-    default: "World"
+  last-name: # id of input
+    description: "Last name of the person to greet"
+    required: true
 outputs:
   time: # id of output
     description: "The time we greeted you"
