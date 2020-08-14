@@ -1,4 +1,7 @@
 name: "Hello World by JanithaR"
+branding:
+  icon: "edit-3"
+  color: "blue"
 description: "Greet someone and record the time"
 inputs:
   first-name: # id of input
