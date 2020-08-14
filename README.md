@@ -23,6 +23,6 @@ The time we greeted you.
 ```yml
 uses: actions/github-fullname-action@v1
 with:
-first-name: 'Janitha'
-last-name: 'Ranawansa'
+  first-name: 'Janitha'
+  last-name: 'Ranawansa'
 ```
