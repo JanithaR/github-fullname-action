@@ -20,7 +20,9 @@ The time we greeted you.
 
 ## Example usage
 
+```yml
 uses: actions/github-fullname-action@v1
 with:
 first-name: 'Janitha'
 last-name: 'Ranawansa'
+```
